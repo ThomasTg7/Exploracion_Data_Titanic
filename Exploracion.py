@@ -28,4 +28,4 @@ plt.title("Sobrevivientes por Edad")
 plt.show()
 
 print("Graficos terminados")
-print("Cambio")
+print("Cambios")
