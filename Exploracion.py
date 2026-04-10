@@ -27,3 +27,4 @@ sns.histplot(data=df_sobrevivientes, x="Age", hue="Survived")
 plt.title("Sobrevivientes por Edad") 
 plt.show()
 
+print("Graficos terminados")
